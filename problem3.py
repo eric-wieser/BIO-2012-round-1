@@ -1,3 +1,7 @@
+"""
+This code does not work, but came close enough to pass some simple input
+"""
+
 from collections import defaultdict
 import math
 
